@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:layout_width="386dp"
+        android:layout_height="159dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/list_hewan">
+
+        <ImageView
+            android:id="@+id/hewan"
+            android:layout_width="280px"
+            android:layout_height="280px"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="70px"
+            android:src="@drawable/americanshorthair" />
+
+        <TextView
+            android:id="@+id/jenis_hewan1"
+            android:layout_width="wrap_content"
+            android:layout_height="75px"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="65dp"
+            android:layout_toRightOf="@id/hewan"
+            android:text="Siberia Cat | Daisy"
+            android:textColor="@color/black"
+            android:textSize="50px" />
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

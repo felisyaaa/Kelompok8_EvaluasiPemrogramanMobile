@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TUBES</string>
+
+    <string-array name="data_name">
+        <item>American Short Hair</item>
+        <item>Australian Cattle Dog</item>
+        <item>Golden Retriever</item>
+        <item>Beagle</item>
+        <item>Cavalier King</item>
+    </string-array>
+
+
+    <array name="data_photo">
+        <item>@drawable/americanshorthair</item>
+        <item>@drawable/australiancattledog</item>
+        <item>@drawable/goldenretriever</item>
+        <item>@drawable/beagle</item>
+        <item>@drawable/cavalierkingcharlesspaniel</item>
+
+    </array>
+</resources>

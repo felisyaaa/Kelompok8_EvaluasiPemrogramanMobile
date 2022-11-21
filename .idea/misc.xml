@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TUBES/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.194" />
+        <entry key="..\:/TUBES/app/src/main/res/drawable/bg.xml" value="0.2005" />
+        <entry key="..\:/TUBES/app/src/main/res/drawable/bgbackground.xml" value="0.2005" />
+        <entry key="..\:/TUBES/app/src/main/res/drawable/bgcari.xml" value="0.2005" />
+        <entry key="..\:/TUBES/app/src/main/res/drawable/btn_start.xml" value="0.2005" />
+        <entry key="..\:/TUBES/app/src/main/res/drawable/list_hewan.xml" value="0.1885" />
+        <entry key="..\:/TUBES/app/src/main/res/drawable/logosearch.xml" value="0.2005" />
+        <entry key="..\:/TUBES/app/src/main/res/layout/activity_fix.xml" value="0.2858974358974359" />
+        <entry key="..\:/TUBES/app/src/main/res/layout/activity_fragment_anjing.xml" value="0.1" />
+        <entry key="..\:/TUBES/app/src/main/res/layout/activity_fragment_kucing.xml" value="0.1" />
+        <entry key="..\:/TUBES/app/src/main/res/layout/activity_fragmentanjing.xml" value="0.33" />
+        <entry key="..\:/TUBES/app/src/main/res/layout/activity_fragmentempat.xml" value="0.16" />
+        <entry key="..\:/TUBES/app/src/main/res/layout/activity_fragmentkucing.xml" value="0.14" />
+        <entry key="..\:/TUBES/app/src/main/res/layout/activity_fragmenttambahan.xml" value="0.22" />
+        <entry key="..\:/TUBES/app/src/main/res/layout/activity_hewan.xml" value="0.29743589743589743" />
+        <entry key="..\:/TUBES/app/src/main/res/layout/activity_list.xml" value="0.29743589743589743" />
+        <entry key="..\:/TUBES/app/src/main/res/layout/activity_main.xml" value="0.14" />
+        <entry key="..\:/TUBES/app/src/main/res/layout/activity_menuutama.xml" value="0.12097953216374269" />
+        <entry key="..\:/TUBES/app/src/main/res/layout/activity_menuutamasekali.xml" value="0.33" />
+        <entry key="..\:/TUBES/app/src/main/res/layout/activity_menuutamasekaliiiiii.xml" value="0.2" />
+        <entry key="..\:/TUBES/app/src/main/res/layout/activity_slide2.xml" value="0.22" />
+        <entry key="..\:/TUBES/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/TUBES/app/src/main/res/layout/bg.xml" value="0.29743589743589743" />
+        <entry key="..\:/TUBES/app/src/main/res/layout/fragmentkucing.xml" value="0.2965811965811966" />
+        <entry key="..\:/TUBES/app/src/main/res/layout/fragmenttambahan.xml" value="0.15128205128205127" />
+        <entry key="..\:/TUBES/app/src/main/res/layout/item_hewan.xml" value="0.4648876404494382" />
+        <entry key="..\:/TUBES/app/src/main/res/layout/menuutama.xml" value="0.1517094017094017" />
+        <entry key="..\:/TUBES/app/src/main/res/layout/menuutamasekali.xml" value="0.2965811965811966" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
